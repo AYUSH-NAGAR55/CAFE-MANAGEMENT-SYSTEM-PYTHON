@@ -35,4 +35,6 @@ if another_order == "YES":
 
 print(f"The total amount of items to pay is {order_total}")
 
+# WRITE YOUR ORDERS IN CAPITAL LETTERS
+
 
